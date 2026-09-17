@@ -1,0 +1,1 @@
+ A modern B2B e-commerce website for an international leather exporter, designed to showcase premium leather products, collections, and manufacturing capabilities. The platform features a professional product catalog, detailed product pages, inquiry and contact system, responsive design, and a premium visual experience tailored for global buyers and businesses.
